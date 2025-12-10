@@ -1,5 +1,3 @@
-## ![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
-main pf view
 
 <!--
 **haobinnie/haobinnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
