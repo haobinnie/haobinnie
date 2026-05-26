@@ -1,4 +1,6 @@
+<img width="500" height="270" alt="download" src="https://github.com/user-attachments/assets/d20226f5-322f-45a4-b925-98b383ba3fc6" />
 
+$\color{#5595b0}{Once you've met someone, you never really forget them.}$
 <!--
 **haobinnie/haobinnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
